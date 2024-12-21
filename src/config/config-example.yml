@@ -1,0 +1,8 @@
+api_keys:
+  open_ai: "your-openai-api-key"
+  anthropic: "your-anthropic-api-key"
+
+models:
+  evaluator: "claude-3-5-sonnet-20241022"
+  advanced: "claude-3-opus-20240229"
+  simple: "gpt-3.5-turbo-0125"
